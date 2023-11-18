@@ -1,0 +1,5 @@
+# Landlords & Landlubbers
+
+The year is 2084. Rapidly rising sea levels have forced homeowners to fashion ships out of whatever they have on hand, leading to boats created out of peoples' houses. The flood has caused resources to be scarce, and the public turn to piracy to satisfy living out their daily lives. You play as a homeowner who has turned their living room into a floating pirate ship - quilts fashioned into masts to catch the wind, floor lamps turned into cannons that shoot balls of energy to sink others, the ceiling fan turned into a steering wheel to navigate your ship. Your goal is to collect as many resources as you can and fight off the other house-ships as they compete against you
+
+The game will be first person 3d, and will play a lot like Sea of Thieves. The controls will be physical, a ceiling fan turned into a ship's steering wheel and lamps laid on their side to be cannons one on each side of the steering wheel
